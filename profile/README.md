@@ -1,9 +1,9 @@
 # :wave: PNCV Solutions Ltd. 
 We are a leading provider of contractor services for businesses operating in the IT sector. Specializing in delivering expert consultants, the company empowers organizations to accelerate their digital transformation and maintain robust, reliable technology environments.
 
-Submit a Bug [🐛](https://github.com/PNCV-Solutions/Main-Board/issues/new?template=bug_report.md)
-Submit a Feature Request [🆕](https://github.com/PNCV-Solutions/Main-Board/issues/new?template=feature_request.yml)
-Submit a new Task [✅](https://github.com/PNCV-Solutions/Main-Board/issues/new?template=new-task.yml)
+- Submit a Bug [🐛](https://github.com/PNCV-Solutions/Main-Board/issues/new?template=bug_report.md)
+- Submit a Feature Request [🆕](https://github.com/PNCV-Solutions/Main-Board/issues/new?template=feature_request.yml)
+- Submit a new Task [✅](https://github.com/PNCV-Solutions/Main-Board/issues/new?template=new-task.yml)
 
 ## :thinking: What We Offer
 ### DevOps Consulting:
