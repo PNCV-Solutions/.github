@@ -1,6 +1,7 @@
 # :wave: PNCV Solutions Ltd. 
 We are a leading provider of contractor services for businesses operating in the IT sector. Specializing in delivering expert consultants, the company empowers organizations to accelerate their digital transformation and maintain robust, reliable technology environments.
 
+Submit a [🐛](https://github.com/PNCV-Solutions/Main-Board/issues/new?template=bug_report.md)
 
 ## :thinking: What We Offer
 ### DevOps Consulting:
