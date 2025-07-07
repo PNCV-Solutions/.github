@@ -6,6 +6,8 @@ You can create issues with the team by doing one of the following:
 - Submit a Feature Request [🆕](https://github.com/PNCV-Solutions/Main-Board/issues/new?template=feature_request.yml)
 - Submit a new Task [✅](https://github.com/PNCV-Solutions/Main-Board/issues/new?template=new-task.yml)
 
+- Link to Kanban Board [📋](https://github.com/orgs/PNCV-Solutions/projects/1)
+
 ## :thinking: What We Offer
 ### DevOps Consulting:
 Our DevOps specialists streamline software delivery pipelines, automate infrastructure, and foster collaboration between development and operations teams to ensure faster, more reliable releases.
