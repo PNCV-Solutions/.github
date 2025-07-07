@@ -1,10 +1,11 @@
-## Hi there 👋
+
+
+## 👋 PNCV Solutions Ltd. 
+We are a leading provider of contractor services for businesses operating in the IT sector. Specializing in delivering expert consultants, the company empowers organizations to accelerate their digital transformation and maintain robust, reliable technology environments.
 
 <!--
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 🍿 Fun facts - what does your team eat for breakfast?
