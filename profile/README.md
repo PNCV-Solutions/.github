@@ -2,9 +2,9 @@
 We are a leading provider of contractor services for businesses operating in the IT sector. Specializing in delivering expert consultants, the company empowers organizations to accelerate their digital transformation and maintain robust, reliable technology environments.
 
 You can create issues with the team by doing one of the following:
-- Submit a Bug [🐛](https://github.com/PNCV-Solutions/Main-Board/issues/new?template=bug_report.yml)
-- Submit a Feature Request [🆕](https://github.com/PNCV-Solutions/Main-Board/issues/new?template=feature_request.yml)
-- Submit a new Task [✅](https://github.com/PNCV-Solutions/Main-Board/issues/new?template=new-task.yml)
+- [Submit a Bug 🐛](https://github.com/PNCV-Solutions/Main-Board/issues/new?template=bug_report.yml)
+- [Submit a Feature Request 🆕](https://github.com/PNCV-Solutions/Main-Board/issues/new?template=feature_request.yml)
+- [Submit a new Task ✅](https://github.com/PNCV-Solutions/Main-Board/issues/new?template=new-task.yml)
 
 #### [Link to Kanban Board 📋](https://github.com/orgs/PNCV-Solutions/projects/1)
 
